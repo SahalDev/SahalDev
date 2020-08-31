@@ -29,6 +29,6 @@ You can find me on [![Website][1.2]][1], or on [![YouTube][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://khalili.cf
+[1]: https://sahaldev.github.io/
 
 [2]: https://youtube.com/khalilicf
