@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ?
 - 🤔 I’m looking for help with Unity & C# (Oh Also Cry Engine Too)
 - 💬 Ask me about Game Development & Web Development
-- 📫 How to reach me: sahal@khalili.gq or sahal@sahaldev.gq Or Join My [Discord Server](https://discord.gg/2MQmt9Y)
+- 📫 How to reach me: sahal@khalili.gq or sahal@sahaldev.gq
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Forget Programming Languages Very Often
  
