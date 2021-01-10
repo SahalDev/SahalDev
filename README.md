@@ -17,18 +17,3 @@ I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Edi
 
 [![SahalDev's github stats](https://github-readme-stats.vercel.app/api?username=SahalDev&count_private=true&show_icons=true&theme=synthwave&layout=compact&line_height=21)](https://sahaldev.github.io/)
 [![SahalDev's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=SahalDev&count_private=true&show_icons=true&theme=material-palenight&layout=compact)](https://sahaldev.github.io/)
-<!-- Actual text -->
-
-You can find me on [![Website][1.2]][1], or on [![YouTube][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: https://i.imgur.com/i3PGApx.png (website)
-
-[2.2]: https://i.imgur.com/ncdtzFP.png (yt)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://sahaldev.github.io/
-
-[2]: https://youtube.com/khalilicf
