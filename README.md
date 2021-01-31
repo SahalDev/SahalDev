@@ -5,12 +5,12 @@
 - 👯 I’m looking to collaborate on ?
 - 🤔 I’m looking for help with Unity, C# & Unreal Engine
 - 💬 Ask me about Game Development & Web Development
-- 📫 How to reach me: sahal@khalili.gq
+- 📫 How to reach me: sahal@pixdev.gq
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Forget Programming Languages Very Often.
  
 ## About Me!
-I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/khalilicf) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/NightFury-pupu).I'm Currently Working On A Super Secret Game Project Only Some People Know. Oh And I Do Some Discord Bot Development (Discord.js). You Can Check Out My Discord Bot [Jørgen](https://top.gg/bot/789351744076644364)</a> .
+I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/khalilicf) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/sulaymanpix).I'm Currently Working On A Super Secret Game Project Only Some People Know. Oh And I Do Some Discord Bot Development (Discord.js). You Can Check Out My Discord Bot [Jørgen](https://top.gg/bot/789351744076644364)</a> .
 
 Psst... Most Of My Repositories Are Private. hehe
 
