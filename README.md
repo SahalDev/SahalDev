@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Forget Programming Languages Very Often.
  
 ## About Me!
-I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/channel/UCunnI_RrsSJ86R-momnj5-w) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/sulaymanpix).I'm Currently Working On Nothing Because My Past Project Either Got Cancelled Or Ended. Oh And I Do Some Discord Bot Development (Discord.js & Discord.py) .
+I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/channel/UCunnI_RrsSJ86R-momnj5-w) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/sulaymanpix).I'm Currently Working On Nothing Because My Past Projects Either Got Cancelled Or Ended. Oh And I Do Some Discord Bot Development (Discord.js & Discord.py (I think) ) .
 
 Psst... Most Of My Repositories Are Private. haha
 I Mostly Commit On [pixelDev](https://github.com/pixdevgithub) Organisation Github Repositories Or My Private Repos.
