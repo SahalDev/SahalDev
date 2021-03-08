@@ -1,9 +1,9 @@
-### Hello, People Of The Internet! I'm SahalDev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello People!, I'm Sahal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Header](https://img.itch.zone/aW1nLzQwODg3NjUucG5n/original/F3Pucv.png "Header")](https://sahaldev.github.io/)
 
-- 🔭 I’m currently working on a Game With Da Bois. 
+- 🔭 I’m currently working on a nothing as I'm completely jobless and don't know what to do..
 - 🌱 I’m currently learning C#, Unity Engine And Unreal Engine
-- 👯 I’m looking to collaborate on ?
+- 👯 I’m looking to collaborate on idk
 - 🤔 I’m looking for help with Unity, C# & Unreal Engine
 - 💬 Ask me about Game Development & Web Development
 - 📫 How to reach me: sahal@pixdev.gq
@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I Forget Programming Languages Very Often.
  
 ## About Me!
-I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/channel/UCunnI_RrsSJ86R-momnj5-w) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/sulaymanpix).I'm Currently Working On A Super Secret Game Project Only Some People Know. Oh And I Do Some Discord Bot Development (Discord.js & Discord.py) .
+I'm SahalDev Or Sahal. I Am A Game Developer And A Web Developer. I Do Video Editing, Photo Editing, Audio Editing, Game Development, etc. I Run A [YouTube Channel](https://www.youtube.com/channel/UCunnI_RrsSJ86R-momnj5-w) All About Video Editing, Photoshop, Computer Languages And Other Stuff With My [Friend](https://github.com/sulaymanpix).I'm Currently Working On Nothing Because My Past Project Either Got Cancelled Or Ended. Oh And I Do Some Discord Bot Development (Discord.js & Discord.py) .
 
-Psst... Most Of My Repositories Are Private. hehe
+Psst... Most Of My Repositories Are Private. haha
 I Mostly Commit On [pixelDev](https://github.com/pixdevgithub) Organisation Github Repositories Or My Private Repos.
 
 ## 👨‍💻Tech Stuff I Know And Use
